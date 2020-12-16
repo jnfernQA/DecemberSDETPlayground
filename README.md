@@ -9,3 +9,5 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - Raimonds Mezals
 - Arsalan Asad
 - Murat Ozturk
+- Hugh Mann
+- Firstname Lastname
