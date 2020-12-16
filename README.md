@@ -18,3 +18,5 @@ Would you like to play a game?
 - Raimonds Mezals
 - Arsalan Asad
 - Murat Ozturk
+- Hugh Mann
+- Firstname Lastname
