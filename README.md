@@ -4,3 +4,4 @@ Try to add your name here using your forked and cloned version of this repo (pus
 
 - Nick Johnson
 - etc.
+Cameron Guthrie
