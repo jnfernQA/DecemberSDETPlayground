@@ -7,6 +7,10 @@ Try to add your name here using your forked and cloned version of this repo (pus
 - completed
 =======
 - Nick Johnson
+<<<<<<< HEAD
 - etc.
 Cameron Guthrie
+>>>>>>> upstream/main
+=======
+- Cameron Guthrie
 >>>>>>> upstream/main
