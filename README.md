@@ -2,17 +2,26 @@
 
 Try to add your name here using your forked and cloned version of this repo (push directly onto `main`):
 
+
+
+
 ![Pure Chaos](https://imgur.com/TxHp9NU.png)
 
-<<<<<<< HEAD
+
+
 - Arsalan Asad
 - completed
-=======
+
 - Nick Johnson
-<<<<<<< HEAD
+
+- etc
+- Raimonds Mezals
+
+
 - etc.
 Cameron Guthrie
->>>>>>> upstream/main
-=======
+
+
+
 - Cameron Guthrie
->>>>>>> upstream/main
+
